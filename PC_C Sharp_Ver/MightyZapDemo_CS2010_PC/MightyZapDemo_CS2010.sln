@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MightyZapDemo_CS2010", "MightyZapDemo_CS2010\MightyZapDemo_CS2010.csproj", "{3E80680E-EBD3-4D6B-9CB7-EAECA1CCE002}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E80680E-EBD3-4D6B-9CB7-EAECA1CCE002}.Debug|x86.ActiveCfg = Debug|x86
+		{3E80680E-EBD3-4D6B-9CB7-EAECA1CCE002}.Debug|x86.Build.0 = Debug|x86
+		{3E80680E-EBD3-4D6B-9CB7-EAECA1CCE002}.Release|x86.ActiveCfg = Release|x86
+		{3E80680E-EBD3-4D6B-9CB7-EAECA1CCE002}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
